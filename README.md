@@ -1,7 +1,10 @@
 Fitness Tracker App 🏃‍♀️🏋️‍♂️
+
 Welcome to the Fitness Tracker App, a simple and interactive Android application designed to help you monitor your daily fitness activities, including steps taken, distance covered, and calories burned!
 
+
 📱 Features
+
 🚶‍♂️ Real-time Step Counter — Track your steps live during your fitness sessions.
 
 📏 Distance Calculation — Automatically calculates the distance in kilometers based on your steps.
@@ -14,7 +17,9 @@ Welcome to the Fitness Tracker App, a simple and interactive Android application
 
 🖌️ Custom Background — Personalize the app with your choice of background.
 
+
 🛠️ Technologies Used
+
 Java (Android Development) — Core application logic.
 
 XML (UI Design) — User Interface layout and design.
@@ -25,7 +30,9 @@ Handlers — For time-based tracking and periodic updates.
 
 RelativeLayout — For flexible and responsive UI design.
 
+
 🏗️ How It Works
+
 Press "Start Tracking" ➡️ Step counting begins (steps increment every second — simulated for demo).
 
 Live Updates Displayed:
