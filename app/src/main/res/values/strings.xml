@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Fitness Tracker App</string>
+    <string name="logo_desc">Daily Tasks Logo</string>
+
+    <!-- Custom Splash Screen Theme -->
+    <style name="LaunchTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Splash Screen Background Image -->
+        <item name="android:windowBackground">@drawable/bg1
+        </item>  <!-- Add bg1 image to drawable folder -->
+        <!-- Fade-in Animation -->
+        <item name="android:windowAnimationStyle">@android:anim/fade_in</item>
+    </style>
+</resources>
