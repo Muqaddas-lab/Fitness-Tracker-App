@@ -1,4 +1,5 @@
 Fitness Tracker App 🏃‍♀️🏋️‍♂️
+
   Welcome to the Fitness Tracker App, a simple and interactive Android application to help you track your daily fitness activity like steps, distance, and calories burned!
 
 📱 Features
